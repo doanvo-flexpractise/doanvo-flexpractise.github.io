@@ -4,21 +4,7 @@ body {
   font-style:italic;
   color: black;
 }
-.homepage{
-    text-align: center;
-    color:rgb(143, 24, 70); 
-    font-family: fantasy;
-    font-size: 50px;   
-  }
 
-.intro{
-    color:rgb(105, 39, 14);
-    font-style: italic;
-    font-size: 25px;
-    font-family: serif;
-    font-weight: bold;
-  }
-h1 {
   text-align: center;
   color: mediumvioletred;
   font-size: 50px;
@@ -53,28 +39,21 @@ p {
   font-style:normal;
   color: rgb(94, 46, 116);
   
-}
-ul {
-  font-style:normal;
-  color: rgb(94, 46, 116);
+.homepage{
+    text-align: center;
+    color:rgb(143, 24, 70); 
+    font-family: fantasy;
+    font-size: 50px;   
+  }
 
-}
-img{
-  width: 400px;
-  height: 300px;
-  float: right;
-  border-style:dotted;
-  border-color: darkred;
-  border-radius: 20px;
-}
-a{
-  color: red;
-  
-}
-.where{
-  color:rgb(105, 149, 247)
-}
-
+.intro{
+    color:rgb(105, 39, 14);
+    font-style: italic;
+    font-size: 25px;
+    font-family: serif;
+    font-weight: bold;
+  }
+h1 {
 
   
   .flex-container {
