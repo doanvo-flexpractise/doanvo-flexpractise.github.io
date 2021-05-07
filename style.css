@@ -68,7 +68,7 @@ a{
   border: 5px solid rgba(0, 0, 0, 0.8);
   padding: 10px;
   font-size: 30px;
-  align-item: flex-end;
+  align-items: center;
     display: flex;
   justify-content: space-between;
 
