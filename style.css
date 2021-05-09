@@ -57,12 +57,12 @@ p {
 
   
   .flex-container {
-       display: flex;
   background-color: pink;
   border: 5px solid rgba(0, 0, 0, 0.8);
   padding: 10px;
   font-size: 30px;
-  align-items: center;
+  text-align: flex-end;
+    display: flex;
   justify-content: space-between;
 
 }
@@ -74,10 +74,12 @@ p {
   text-align: center;
   line-height: 75px;
   font-size: 30px;
+ 
 }
-.menu{
+.grid-item{
   color: purple;
   font-style: normal;
   text-decoration:underline;
-  font-family: cursive; 
+  font-family: cursive;
+  
 }
