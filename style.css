@@ -58,12 +58,12 @@ h1 {
 
   
   .flex-container {
+       display: flex;
   background-color: pink;
   border: 5px solid rgba(0, 0, 0, 0.8);
   padding: 10px;
   font-size: 30px;
   align-items: center;
-    display: flex;
   justify-content: space-between;
 
 }
