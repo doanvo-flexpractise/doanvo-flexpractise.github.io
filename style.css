@@ -4,7 +4,7 @@ body {
   font-style:italic;
   color: black;
 }
-span{
+.head{
   text-align: center;
   color: mediumvioletred;
   font-size: 50px;
