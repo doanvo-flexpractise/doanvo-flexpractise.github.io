@@ -75,12 +75,10 @@ h1 {
   text-align: center;
   line-height: 75px;
   font-size: 30px;
- 
 }
 .menu{
   color: purple;
   font-style: normal;
   text-decoration:underline;
-  font-family: cursive;
-  
+  font-family: cursive; 
 }
